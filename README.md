@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Software Engineer Intern at Snowflake. I am trying to compare various firewall options for Snowflake deployments, like Coraza and Fastly. I am also create the design for creating a rule which can then be propagated to the firewall. I am currently working with Golang, Envoy, Bazel, Kubernetes, Docker and Jenkins.
+I'm currently working as a Software Engineer Intern at Snowflake. I am trying to compare various firewall options for Snowflake deployments, like Coraza and Fastly. I have also created the design for how a rule can be propagated to the firewall. I am currently working with Golang, Envoy, Bazel, Kubernetes, Docker and Jenkins.
 
 
 ## 🌐 Socials:
