@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Software Engineer Intern at Snowflake. I am trying to compare various firewall options for Snowflake deployments, like Coraza and Fastly. I have also created the design for how a rule can be propagated to the firewall. I am currently working with Golang, Envoy, Bazel, Kubernetes, Docker and Jenkins.
+I have more than 3 years of experience working as a Software developer at General Electric. In addition to that I have done internships at NVIDIA(6 months, Bangalore, Indai) and Intel(3 months, Chandler , Arizona) in the past and currently working as a Software Engineer Intern at Snowflake. I am trying to compare various firewall options for Snowflake deployments, like Coraza and Fastly. I have also created the design for how a rule can be propagated to the firewall. I am currently working with Golang, Envoy, Bazel, Kubernetes, Docker and Jenkins.
 
 
 ## 🌐 Socials:
